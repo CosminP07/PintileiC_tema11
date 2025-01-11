@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{540F1C1E-8718-463A-A881-8DD1B93891A9}|OpenTK_winforms_z03\\OpenTK_winforms_z03.csproj|c:\\users\\cosmin\\desktop\\opentk_lab11\\opentk_winforms_z03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F1C1E-8718-463A-A881-8DD1B93891A9}|OpenTK_winforms_z03\\OpenTK_winforms_z03.csproj|solutionrelative:opentk_winforms_z03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F1C1E-8718-463A-A881-8DD1B93891A9}|OpenTK_winforms_z03\\OpenTK_winforms_z03.csproj|C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\opentk_winforms_z03\\object3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F1C1E-8718-463A-A881-8DD1B93891A9}|OpenTK_winforms_z03\\OpenTK_winforms_z03.csproj|solutionrelative:opentk_winforms_z03\\object3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F1C1E-8718-463A-A881-8DD1B93891A9}|OpenTK_winforms_z03\\OpenTK_winforms_z03.csproj|C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\opentk_winforms_z03\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F1C1E-8718-463A-A881-8DD1B93891A9}|OpenTK_winforms_z03\\OpenTK_winforms_z03.csproj|solutionrelative:opentk_winforms_z03\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F1C1E-8718-463A-A881-8DD1B93891A9}|OpenTK_winforms_z03\\OpenTK_winforms_z03.csproj|C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\opentk_winforms_z03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{540F1C1E-8718-463A-A881-8DD1B93891A9}|OpenTK_winforms_z03\\OpenTK_winforms_z03.csproj|solutionrelative:opentk_winforms_z03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB19E63-4124-4532-868D-7C9551166FD2}|OpenTK_winforms_z01\\OpenTK_winforms_z01.csproj|C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\opentk_winforms_z01\\openglwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB19E63-4124-4532-868D-7C9551166FD2}|OpenTK_winforms_z01\\OpenTK_winforms_z01.csproj|solutionrelative:opentk_winforms_z01\\openglwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB19E63-4124-4532-868D-7C9551166FD2}|OpenTK_winforms_z01\\OpenTK_winforms_z01.csproj|C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\opentk_winforms_z01\\openglwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB19E63-4124-4532-868D-7C9551166FD2}|OpenTK_winforms_z01\\OpenTK_winforms_z01.csproj|solutionrelative:opentk_winforms_z01\\openglwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Object3D.cs",
+              "DocumentMoniker": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z03\\Object3D.cs",
+              "RelativeDocumentMoniker": "OpenTK_winforms_z03\\Object3D.cs",
+              "ToolTip": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z03\\Object3D.cs",
+              "RelativeToolTip": "OpenTK_winforms_z03\\Object3D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:11:40.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z03\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OpenTK_winforms_z03\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z03\\Form1.Designer.cs",
+              "RelativeToolTip": "OpenTK_winforms_z03\\Form1.Designer.cs",
+              "ViewState": "AQIAAD4EAAAAAAAAAAAuwEkEAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:12:42.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z03\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenTK_winforms_z03\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z03\\Form1.cs",
+              "RelativeToolTip": "OpenTK_winforms_z03\\Form1.cs",
+              "ViewState": "AQIAADADAAAAAAAAAAAUwDUDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:47:19.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z03\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenTK_winforms_z03\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z03\\Form1.cs [Design]",
+              "RelativeToolTip": "OpenTK_winforms_z03\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:47:12.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenGLWnd.cs",
+              "DocumentMoniker": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z01\\OpenGLWnd.cs",
+              "RelativeDocumentMoniker": "OpenTK_winforms_z01\\OpenGLWnd.cs",
+              "ToolTip": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z01\\OpenGLWnd.cs",
+              "RelativeToolTip": "OpenTK_winforms_z01\\OpenGLWnd.cs",
+              "ViewState": "AQIAAB0CAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:46:34.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenGLWnd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z01\\OpenGLWnd.cs",
+              "RelativeDocumentMoniker": "OpenTK_winforms_z01\\OpenGLWnd.cs",
+              "ToolTip": "C:\\Users\\Cosmin\\Desktop\\OpenTK_lab11\\OpenTK_winforms_z01\\OpenGLWnd.cs [Design]",
+              "RelativeToolTip": "OpenTK_winforms_z01\\OpenGLWnd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:46:31.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
